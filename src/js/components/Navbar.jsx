@@ -9,7 +9,7 @@ const navBar = () => {
 		<div className="text-center">
 			<nav class="navbar navbar-expand-lg bg-dark fixed-top">
 				<div className="container-fluid">
-					<a className="navbar-brand text-light" href="#">Start Bootstrap</a>
+					<a className="navbar-brand text-light" href="#">Navigation Bar</a>
 					<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
 						<span className="navbar-toggler-icon"></span>
 					</button>
